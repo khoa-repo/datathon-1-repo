@@ -1,0 +1,922 @@
+game_no,attacking_team,defending_team,game_time,x_axis,y_axis,distance_to_goal,play_type,assist,outcome
+1,Brisbane,Canberra,2.06,16.55,18.48,20.16,Open play,Throw-in,Saved
+1,Canberra,Brisbane,4.14,18.76,44.9,23.96,Open play,Long pass,Missed
+1,Brisbane,Canberra,7.54,9.3,27.4,9.66,Open play,Short pass,Goal
+1,Brisbane,Canberra,10.24,13.83,28.86,13.88,Set play,Cross,Goal
+1,Canberra,Brisbane,17.22,5.95,35.38,8.02,Set play,Cross,Saved
+1,Canberra,Brisbane,22.58,32.95,35.38,33.39,Open play,Short pass,Saved
+1,Brisbane,Canberra,37.07,25.85,15.99,29.4,Open play,Turnover,Missed
+1,Canberra,Brisbane,38.33,9.84,36.21,11.64,Open play,Long pass,Goal
+1,Canberra,Brisbane,50.06,12.36,19.66,16.11,Open play,Long pass,Saved
+1,Brisbane,Canberra,51.31,16.9,19.93,19.67,Open play,Medium pass,Saved
+1,Brisbane,Canberra,58.57,10.88,43.81,17.58,Open play,Medium through,Saved
+1,Brisbane,Canberra,61.46,26.83,35.92,27.48,Open play,Turnover,Saved
+1,Brisbane,Canberra,62.4,10.2,23.05,12.34,Open play,Medium through,Missed
+1,Brisbane,Canberra,69.07,9.55,34.67,10.63,Corner,Corner,Blocked
+1,Brisbane,Canberra,69.1,15.45,42.77,20.04,Open play,Short pass,Blocked
+1,Brisbane,Canberra,70.22,26.8,36.96,27.69,Open play,Short pass,Saved
+1,Brisbane,Canberra,72.23,19.99,41.52,23.07,Open play,Medium pass,Blocked
+1,Brisbane,Canberra,76.2,18.58,17.23,22.55,Open play,Medium pass,Missed
+1,Brisbane,Canberra,80.33,16.02,16.19,21.15,Open play,Medium pass,Missed
+1,Brisbane,Canberra,83.53,16.6,44.43,22,Open play,Short pass,Missed
+1,Brisbane,Canberra,85.05,17.2,15.99,22.18,Open play,Medium pass,Saved
+1,Brisbane,Canberra,86.41,14.12,37.58,16.03,Open play,Medium through,Saved
+1,Brisbane,Canberra,87.42,25.74,24.5,26.32,Open play,Medium pass,Missed
+2,Canberra,Sydney,7.35,17.16,26.9,17.44,Open play,Turnover,Goal
+2,Sydney,Canberra,10.31,16.98,10.69,25.71,Open play,Short pass,Missed
+2,Sydney,Canberra,16.37,8.24,19.31,13.5,Corner,Header,Missed
+2,Canberra,Sydney,38.23,17.12,19.27,20.2,Corner,Corner,Saved
+2,Canberra,Sydney,40.02,21.23,27.94,21.33,Set play,Short pass,Missed
+2,Canberra,Sydney,47.37,23.29,27.72,23.4,Set play,Short pass,Missed
+2,Canberra,Sydney,48.37,10.96,29.32,10.98,Open play,Short pass,Missed
+2,Canberra,Sydney,52.44,6.62,28.63,6.76,Corner,Corner,Missed
+2,Canberra,Sydney,54.12,19.86,42.56,23.5,Open play,Medium pass,Blocked
+2,Canberra,Sydney,42.5,6.36,33.42,7.22,Open play,Cross,Saved
+2,Canberra,Sydney,55.38,10.73,37.54,13.11,Open play,Medium through,Saved
+2,Canberra,Sydney,57.26,4.56,27.72,5.1,Open play,Cross,Goal
+2,Canberra,Sydney,65.11,5.65,21.1,10.54,Corner,Corner,Missed
+2,Canberra,Sydney,68.25,8.45,22.5,11.3,Open play,Cross,Goal
+2,Canberra,Sydney,69.34,5.52,37.99,9.71,Open play,Long through,Saved
+2,Canberra,Sydney,70.3,8.68,28.87,8.75,Open play,Medium pass,Saved
+2,Canberra,Sydney,77.19,17.33,22.47,18.9,Open play,Long through,Saved
+2,Canberra,Sydney,78.28,20.09,36.62,21.15,Open play,Short pass,Saved
+2,Canberra,Sydney,93.42,10.5,33,10.92,Corner,Corner,Missed
+2,Sydney,Canberra,18.49,16.7,35.53,17.59,Open play,Short pass,Saved
+2,Sydney,Canberra,33.57,11.19,17.95,16.44,Open play,Short pass,Missed
+2,Sydney,Canberra,35.31,28.54,41.01,30.59,Open play,Turnover,Missed
+2,Sydney,Canberra,41.44,27.63,38.04,28.78,Open play,Turnover,Missed
+2,Sydney,Canberra,46.32,16.92,29.7,16.92,Open play,Medium pass,Saved
+2,Sydney,Canberra,47.11,17.89,36.84,19.15,Corner,Header,Missed
+2,Sydney,Canberra,79.19,18.35,21.09,20.4,Open play,Long through,Saved
+2,Sydney,Canberra,85.3,11.24,36.61,13.04,Open play,Long pass,Blocked
+2,Sydney,Canberra,91.24,19.72,27.89,19.83,Open play,Turnover,Missed
+3,Melbourne City,Melbourne Victory,10.02,4.79,28.22,5.11,Corner,Corner,Missed
+3,Melbourne City,Melbourne Victory,10.06,20.09,27.08,20.3,Corner,Short pass,Saved
+3,Melbourne City,Melbourne Victory,26.01,8.9,20.92,12.71,Open play,Short through,Missed
+3,Melbourne City,Melbourne Victory,34.05,16.67,47.63,24.26,Open play,Medium pass,Saved
+3,Melbourne City,Melbourne Victory,35.59,18.95,27.31,19.14,Open play,Short pass,Saved
+3,Melbourne City,Melbourne Victory,43.36,16.89,36.21,18,Open play,Header,Missed
+3,Melbourne City,Melbourne Victory,45.33,10.06,50.37,22.72,Open play,Long through,Blocked
+3,Melbourne City,Melbourne Victory,48.04,9.36,29.49,9.37,Open play,Short pass,Goal
+3,Melbourne City,Melbourne Victory,51.15,10.96,33.15,11.4,Open play,Cross,Missed
+3,Melbourne City,Melbourne Victory,53.3,18.95,15.34,23.96,Open play,Header,Missed
+3,Melbourne City,Melbourne Victory,70.3,22.15,35.8,22.9,Open play,Short pass,Blocked
+3,Melbourne Victory,Melbourne City,24.04,6.85,28.58,7,Corner,Corner,Missed
+3,Melbourne Victory,Melbourne City,24.05,4.57,31.55,4.83,Corner,Missed shot,Saved
+3,Melbourne Victory,Melbourne City,81.35,22.6,42.38,25.77,Open play,Header,Blocked
+3,Melbourne Victory,Melbourne City,91.4,14.38,50.83,25.31,Open play,Medium through,Goal
+4,Canberra,Newcastle,9.14,17.43,44.72,22.81,Open play,Medium pass,Blocked
+4,Canberra,Newcastle,27.34,20.64,9.71,28.94,Open play,Medium pass,Missed
+4,Canberra,Newcastle,36.27,27.98,18.42,30.28,Open play,Turnover,Missed
+4,Canberra,Newcastle,39.2,5.73,32.94,6.44,Open play,Cross,Saved
+4,Canberra,Newcastle,40.34,11.7,29.51,11.71,Corner,Corner,Missed
+4,Canberra,Newcastle,47.28,5.6,27.67,6.07,Open play,Cross,Missed
+4,Canberra,Newcastle,55.14,21.56,28.73,21.6,Open play,Turnover,Missed
+4,Canberra,Newcastle,63.26,6.42,28.2,6.67,Open play,Cross,Saved
+4,Canberra,Newcastle,63.31,26.15,28.36,26.2,Corner,Short pass,Missed
+4,Canberra,Newcastle,75.29,25.92,30.7,25.93,Open play,Short pass,Saved
+4,Canberra,Newcastle,76.29,20.87,28.36,20.93,Open play,Short pass,Saved
+4,Canberra,Newcastle,77.01,13.53,43.04,18.79,Open play,Cross,Saved
+4,Canberra,Newcastle,87.02,4.3,22.62,8.54,Open play,Cross,Missed
+4,Newcastle,Canberra,6.13,25.46,27.75,25.56,Open play,Turnover,Saved
+4,Newcastle,Canberra,13.26,19.27,27.75,19.4,Open play,Short pass,Saved
+4,Newcastle,Canberra,14.16,4.69,27.52,5.31,Corner,Corner,Missed
+4,Newcastle,Canberra,22.09,5.1,41.6,12.67,Open play,Turnover,Saved
+4,Newcastle,Canberra,29.22,27.75,28.55,27.79,Open play,Short pass,Missed
+4,Newcastle,Canberra,34.16,4.67,25.92,6.2,Open play,Cross,Saved
+4,Newcastle,Canberra,40.59,19.27,38.83,21.2,Open play,Medium pass,Missed
+4,Newcastle,Canberra,42.32,9.72,44.79,17.7,Open play,Cross,Missed
+4,Newcastle,Canberra,53.59,10.78,41.65,15.87,Open play,Medium pass,Saved
+4,Newcastle,Canberra,79.22,13.95,32.02,14.1,Open play,Long pass,Missed
+4,Newcastle,Canberra,94.03,13.3,18.65,17.48,Open play,Header,Missed
+5,Sydney,Canberra,7.33,17.62,26.29,18.01,Open play,Short pass,Blocked
+5,Sydney,Canberra,23,24.94,26.62,25.17,Open play,Short pass,Missed
+5,Sydney,Canberra,23.44,14.5,32.29,14.68,Open play,Turnover,Missed
+5,Sydney,Canberra,34.24,23.34,27.76,23.45,Open play,Throw-in,Saved
+5,Sydney,Canberra,52.02,3.89,39.56,10.32,Open play,Long pass,Saved
+5,Sydney,Canberra,60.58,8.47,26.06,9.34,Corner,Corner,Blocked
+5,Sydney,Canberra,60.59,8.12,25.98,9.06,Corner,Missed shot,Missed
+5,Sydney,Canberra,73.28,19.45,24.23,20.29,Open play,Short pass,Saved
+5,Sydney,Canberra,77.44,13.56,25.18,14.39,Open play,Cross,Blocked
+5,Canberra,Sydney,10.42,5.89,32.7,6.48,Open play,Missed shot,Missed
+5,Canberra,Sydney,13.14,8.47,37.27,11.16,Corner,Cross,Missed
+5,Canberra,Sydney,13.15,5.74,28.95,5.84,Corner,Missed shot,Missed
+5,Canberra,Sydney,15.32,5.95,19.65,11.94,Open play,Cross,Missed
+5,Canberra,Sydney,29.56,8.47,20.57,12.68,Corner,Corner,Blocked
+5,Canberra,Sydney,29.58,16.7,18.51,20.27,Corner,Missed shot,Blocked
+5,Canberra,Sydney,31.06,16.93,32.24,17.08,Set play,Free Kick,Missed
+5,Canberra,Sydney,36.18,11.76,30.87,11.79,Open play,Cross,Missed
+5,Canberra,Sydney,37.45,24.71,18.05,27.45,Open play,Short pass,Missed
+5,Sydney,Canberra,41.41,15.65,20.44,18.34,Open play,Medium pass,Saved
+5,Canberra,Sydney,43.55,12.81,16.45,18.65,Open play,Short pass,Missed
+5,Canberra,Sydney,45.39,29.52,12.42,34.36,Open play,Medium pass,Missed
+5,Canberra,Sydney,58.46,21.51,22.17,22.89,Open play,Short pass,Missed
+5,Canberra,Sydney,62.44,23.57,37.27,24.67,Open play,Short pass,Missed
+5,Canberra,Sydney,63.51,1.83,23.31,6.94,Open play,Long through,Missed
+5,Canberra,Sydney,74.24,16.45,26.6,16.8,Open play,Short through,Blocked
+5,Canberra,Sydney,82.18,11.9,19.88,15.62,Corner,Corner,Blocked
+5,Canberra,Sydney,87.29,7.32,27.75,7.66,Open play,Cross,Goal
+5,Canberra,Sydney,90.28,18.54,37.96,20.18,Open play,Medium through,Blocked
+6,Western Sydney,Canberra,16.31,14.5,34.33,15.13,Corner,Corner,Missed
+6,Western Sydney,Canberra,21.37,17.62,33.84,18.03,Open play,Cross,Missed
+6,Western Sydney,Canberra,35.15,26.77,29.7,26.77,Open play,Short pass,Saved
+6,Western Sydney,Canberra,41.33,16.7,18.74,20.14,Open play,Short pass,Missed
+6,Western Sydney,Canberra,41.46,7.78,28.66,7.89,Corner,Header,Saved
+6,Western Sydney,Canberra,45.19,8.24,39.65,12.69,Open play,Short through,Missed
+6,Western Sydney,Canberra,51.18,11.2,37.36,13.4,Open play,Short pass,Saved
+6,Western Sydney,Canberra,54.09,5.85,34.3,7.26,Open play,Cross,Blocked
+6,Western Sydney,Canberra,54.1,11,33.56,11.56,Open play,Missed shot,Missed
+6,Western Sydney,Canberra,54.13,6.64,28.29,6.86,Open play,Header,Missed
+6,Western Sydney,Canberra,69.25,16.25,25.17,16.95,Open play,Long pass,Saved
+6,Western Sydney,Canberra,70.37,22.43,40.33,24.69,Open play,Short pass,Blocked
+6,Western Sydney,Canberra,73.23,5.4,30.72,5.45,Corner,Corner,Missed
+6,Western Sydney,Canberra,77.15,5.6,27.98,5.95,Open play,Short pass,Missed
+6,Western Sydney,Canberra,77.17,8.01,40.02,12.83,Open play,Missed shot,Goal
+6,Western Sydney,Canberra,86.34,21.28,26.75,21.53,Open play,Short pass,Saved
+6,Western Sydney,Canberra,91.03,7.09,24.5,8.97,Open play,Header,Missed
+6,Canberra,Western Sydney,2.15,9.38,26.32,10.08,Corner,Corner,Missed
+6,Canberra,Western Sydney,4.05,1.35,27.6,2.75,Corner,Corner,Missed
+6,Canberra,Western Sydney,4.09,17.85,17.22,21.95,Corner,Header,Missed
+6,Canberra,Western Sydney,12.38,5.45,32.93,6.19,Corner,Corner,Missed
+6,Canberra,Western Sydney,13.43,5.62,33.6,6.67,Corner,Corner,Goal
+6,Canberra,Western Sydney,18.36,28.38,21.65,29.58,Open play,Medium pass,Missed
+6,Canberra,Western Sydney,23.33,15.23,32.16,15.38,Open play,Turnover,Saved
+6,Canberra,Western Sydney,44.19,35.01,31.7,35.05,Open play,Long pass,Saved
+6,Canberra,Western Sydney,45.1,11.1,29.58,11.11,Open play,Cross,Missed
+6,Canberra,Western Sydney,49.31,25.4,34.6,25.81,Open play,Medium pass,Saved
+6,Canberra,Western Sydney,60.04,18.08,21.8,19.85,Open play,Medium pass,Saved
+6,Canberra,Western Sydney,65,11.62,30.2,11.62,Open play,Medium pass,Saved
+6,Canberra,Western Sydney,70.11,5.95,22.88,9.28,Open play,Header,Saved
+6,Canberra,Western Sydney,75.1,29.52,24.77,29.98,Open play,Long pass,Missed
+6,Canberra,Western Sydney,78.36,11,28.95,11.05,Set play,Free Kick,Goal
+6,Canberra,Western Sydney,79.12,4.23,23.48,7.77,Open play,Cross,Missed
+6,Canberra,Western Sydney,83.18,9.75,29.54,9.76,Open play,Short through,Goal
+7,Melbourne City,Canberra,4.1,11.2,34.67,12.13,Open play,Short through,Goal
+7,Melbourne City,Canberra,7.14,6.12,22.54,9.65,Corner,Corner,Missed
+7,Melbourne City,Canberra,10.03,12.81,32.38,13.03,Open play,Long through,Goal
+7,Melbourne City,Canberra,17.15,12.21,43.2,17.98,Open play,Medium pass,Missed
+7,Melbourne City,Canberra,23.3,12.78,27.89,12.95,Open play,Cross,Missed
+7,Melbourne City,Canberra,32.15,10.81,23.17,12.79,Open play,Short pass,Missed
+7,Melbourne City,Canberra,36.02,26.09,24.09,26.75,Open play,Turnover,Blocked
+7,Melbourne City,Canberra,36.06,6.15,32.13,6.51,Open play,Cross,Missed
+7,Melbourne City,Canberra,37.15,16.05,23.4,17.35,Open play,Medium through,Missed
+7,Melbourne City,Canberra,40.32,16.75,22.71,18.27,Open play,Medium pass,Goal
+7,Melbourne City,Canberra,44.36,8.88,36.44,10.97,Open play,Medium through,Saved
+7,Melbourne City,Canberra,49.25,10.84,42.16,16.29,Open play,Cross,Missed
+7,Melbourne City,Canberra,51.11,3.43,23.64,7.23,Set play,Free Kick,Missed
+7,Melbourne City,Canberra,61.28,13.53,31.04,13.57,Open play,Medium through,Blocked
+7,Melbourne City,Canberra,66.32,12.53,36.95,14.33,Open play,Short pass,Saved
+7,Melbourne City,Canberra,67.05,8.47,38.43,11.95,Open play,Short through,Saved
+7,Melbourne City,Canberra,67.4,32.27,30.57,32.28,Corner,Corner,Missed
+7,Melbourne City,Canberra,69.23,8.92,38.43,12.27,Open play,Cross,Missed
+7,Melbourne City,Canberra,73.02,34.1,21.67,35.1,Open play,Short pass,Missed
+7,Melbourne City,Canberra,86.18,5.2,37.06,8.77,Open play,Long through,Blocked
+7,Melbourne City,Canberra,86.21,1.85,32.21,2.88,Open play,Missed shot,Goal
+7,Canberra,Melbourne City,5.06,13.27,20.35,16.41,Open play,Short pass,Missed
+7,Canberra,Melbourne City,24.18,26.77,38.2,28,Set play,Short pass,Saved
+7,Canberra,Melbourne City,28.29,11.15,22.98,13.18,Open play,Medium through,Goal
+7,Canberra,Melbourne City,30.26,28.6,36.14,29.25,Open play,Turnover,Blocked
+7,Canberra,Melbourne City,57.54,22.2,39.11,24,Open play,Medium pass,Missed
+7,Canberra,Melbourne City,59,5.35,35.9,7.96,Open play,Cross,Goal
+7,Canberra,Melbourne City,60.09,17.7,22.49,19.23,Open play,Cross,Missed
+7,Canberra,Melbourne City,84.28,21.97,39.65,24,Open play,Medium pass,Blocked
+7,Canberra,Melbourne City,88.06,11.65,26.29,12.23,Open play,Cross,Saved
+7,Canberra,Melbourne City,90.38,25.4,29.12,25.42,Corner,Header,Missed
+7,Canberra,Melbourne City,92.46,10.73,16.62,17.15,Open play,Medium pass,Saved
+7,Canberra,Melbourne City,92.49,11.75,24.01,13.19,Open play,Missed shot,Blocked
+8,Adelaide,Newcastle,12.4,17.85,31.27,17.9,Open play,Medium pass,Saved
+8,Adelaide,Newcastle,15.35,19.68,33.84,20.05,Open play,Short pass,Missed
+8,Adelaide,Newcastle,21.05,17.99,32.1,18.11,Open play,Short pass,Blocked
+8,Adelaide,Newcastle,28.58,13.27,28.21,13.39,Open play,Cross,Missed
+8,Adelaide,Newcastle,41.54,12.48,29.2,12.51,Set play,Free Kick,Missed
+8,Adelaide,Newcastle,59.1,4.11,32.85,5,Corner,Missed shot,Goal
+8,Adelaide,Newcastle,86.53,12.81,24.01,14.14,Open play,Cross,Missed
+8,Newcastle,Adelaide,7.3,25.17,21.95,26.43,Open play,Short pass,Missed
+8,Newcastle,Adelaide,23.3,16.97,11.4,25.18,Corner,Short pass,Missed
+8,Newcastle,Adelaide,26.19,5.6,31.8,5.88,Corner,Corner,Saved
+8,Newcastle,Adelaide,28,6.3,30.8,6.35,Open play,Short through,Saved
+8,Newcastle,Adelaide,31.37,27,32.8,27.14,Open play,Short pass,Blocked
+8,Newcastle,Adelaide,35.45,24.03,34.23,24.4,Open play,Short pass,Missed
+8,Newcastle,Adelaide,39.58,21.51,19.44,23.96,Open play,Medium pass,Missed
+8,Newcastle,Adelaide,46.26,8.51,40.79,13.74,Open play,Medium through,Missed
+8,Newcastle,Adelaide,47.11,24.09,28.58,24.13,Open play,Short pass,Missed
+8,Newcastle,Adelaide,48.17,5.7,32.3,6.15,Corner,Corner,Saved
+8,Newcastle,Adelaide,50.3,6.35,24.47,8.42,Open play,Cross,Missed
+8,Newcastle,Adelaide,53.58,21.97,29.8,21.97,Open play,Turnover,Missed
+8,Newcastle,Adelaide,72.36,5.6,36.9,8.89,Open play,Cross,Saved
+8,Newcastle,Adelaide,74,10.72,19.74,14.84,Open play,Long through,Missed
+8,Newcastle,Adelaide,77.48,5.32,40.56,11.82,Open play,Short pass,Missed
+8,Newcastle,Adelaide,81.06,20.14,20.28,22.36,Open play,Medium pass,Saved
+8,Newcastle,Adelaide,82.27,10.78,26.6,11.3,Open play,Cross,Saved
+8,Newcastle,Adelaide,83.23,7.55,40.33,12.79,Open play,Short through,Saved
+8,Newcastle,Adelaide,83.24,2.7,31.2,2.95,Open play,Missed shot,Goal
+8,Newcastle,Adelaide,85.46,21.74,33.47,22.02,Open play,Long through,Saved
+8,Newcastle,Adelaide,89.22,7.55,22.94,10.34,Set play,Free Kick,Missed
+9,Brisbane,Canberra,14.25,16.3,18.82,19.77,Open play,Turnover,Missed
+9,Brisbane,Canberra,17.41,17.39,43.54,22.04,Open play,Short pass,Saved
+9,Brisbane,Canberra,19.01,16.4,22.49,18.04,Open play,Long through,Saved
+9,Brisbane,Canberra,23.52,13.59,21.34,16.11,Open play,Turnover,Missed
+9,Brisbane,Canberra,29.12,28.09,39.19,29.56,Open play,Short pass,Missed
+9,Brisbane,Canberra,29.19,5.85,26.6,6.77,Open play,Missed shot,Saved
+9,Brisbane,Canberra,42.21,4.8,31.3,4.97,Open play,Cross,Saved
+9,Brisbane,Canberra,44.23,21.14,39.88,23.33,Open play,Turnover,Missed
+9,Brisbane,Canberra,58.42,11.2,29.1,11.24,Corner,Corner,Blocked
+9,Brisbane,Canberra,58.43,7.5,30.25,7.5,Corner,Missed shot,Blocked
+9,Brisbane,Canberra,64,18.76,18.35,22.08,Open play,Medium through,Blocked
+9,Brisbane,Canberra,65.48,20.25,29.8,20.25,Open play,Medium pass,Saved
+9,Brisbane,Canberra,75.32,5.3,23.35,8.5,Open play,Cross,Missed
+9,Brisbane,Canberra,80.07,11,27.36,11.31,Open play,Turnover,Saved
+9,Brisbane,Canberra,84.41,19.2,27.56,19.35,Open play,Medium pass,Blocked
+9,Canberra,Brisbane,3,15.8,35.74,16.81,Open play,Short pass,Saved
+9,Canberra,Brisbane,5.31,6.27,29.8,6.27,Corner,Corner,Saved
+9,Canberra,Brisbane,6.4,4.65,23.2,8.24,Corner,Corner,Missed
+9,Canberra,Brisbane,19.21,20.5,21.27,22.28,Open play,Medium pass,Missed
+9,Canberra,Brisbane,28.07,24.26,27.78,24.36,Open play,Short pass,Missed
+9,Canberra,Brisbane,38.44,10.65,35.23,11.86,Set play,Free Kick,Saved
+9,Canberra,Brisbane,43.04,4.15,32.86,5.04,Open play,Cross,Goal
+9,Canberra,Brisbane,48.1,13.45,18.25,17.86,Open play,Medium through,Missed
+9,Canberra,Brisbane,50.28,10.35,28.06,10.53,Open play,Short through,Blocked
+9,Canberra,Brisbane,55.54,6.05,29.04,6.13,Set play,Free Kick,Missed
+9,Canberra,Brisbane,59.02,13.36,42.16,18.07,Open play,Long through,Goal
+9,Canberra,Brisbane,68.53,24.51,16.72,27.88,Set play,Header,Blocked
+9,Canberra,Brisbane,76.2,19.3,31.1,19.33,Open play,Short pass,Missed
+9,Canberra,Brisbane,81.01,7.6,32.3,7.94,Open play,Cross,Saved
+9,Canberra,Brisbane,86.15,5.1,35.76,7.69,Open play,Cross,Blocked
+9,Canberra,Brisbane,87.55,28.6,32.01,28.67,Open play,Short pass,Missed
+10,Melbourne City,Sydney,8.15,17.8,21.8,19.6,Open play,Short pass,Missed
+10,Melbourne City,Sydney,9.2,20.85,29.69,20.85,Open play,Turnover,Missed
+10,Melbourne City,Sydney,9.58,5.65,22.03,9.77,Open play,Medium through,Goal
+10,Melbourne City,Sydney,24.34,10.1,38.96,13.5,Corner,Short pass,Blocked
+10,Melbourne City,Sydney,25.42,9.8,29.7,9.8,Open play,Turnover,Missed
+10,Melbourne City,Sydney,35.08,5.9,36.9,9.08,Open play,Cross,Missed
+10,Melbourne City,Sydney,35.44,10.7,25,11.81,Open play,Short through,Missed
+10,Melbourne City,Sydney,38.43,12.65,37.13,14.52,Open play,Medium through,Goal
+10,Melbourne City,Sydney,42.45,8.24,25.46,9.41,Open play,Short through,Goal
+10,Melbourne City,Sydney,44.45,16.12,40.79,19.4,Open play,Short pass,Goal
+10,Melbourne City,Sydney,48.52,19.65,26.92,19.89,Open play,Medium through,Missed
+10,Melbourne City,Sydney,59.26,21.74,18.52,24.58,Open play,Short pass,Missed
+10,Melbourne City,Sydney,60.27,9.84,31.23,9.92,Open play,Cross,Goal
+10,Melbourne City,Sydney,62.57,14.5,36.66,15.96,Open play,Cross,Missed
+10,Melbourne City,Sydney,65.24,23.11,33.62,23.39,Open play,Medium pass,Saved
+10,Melbourne City,Sydney,89.51,8.7,22.63,11.4,Open play,Medium through,Goal
+10,Melbourne City,Sydney,93.17,10.85,31.75,10.99,Corner,Corner,Missed
+10,Melbourne City,Sydney,93.19,8.55,31.2,8.63,Corner,Missed shot,Saved
+10,Sydney,Melbourne City,12.5,19.94,37.8,21.41,Open play,Medium pass,Missed
+10,Sydney,Melbourne City,31.09,23.57,23.1,24.56,Open play,Short through,Missed
+10,Sydney,Melbourne City,33.24,12.44,25.39,13.27,Open play,Cross,Missed
+10,Sydney,Melbourne City,39.44,20.45,34.77,21,Open play,Medium pass,Saved
+10,Sydney,Melbourne City,45.5,10.65,40.33,14.84,Open play,Throw-in,Saved
+10,Sydney,Melbourne City,50.17,17.74,20.14,20.3,Open play,Header,Blocked
+10,Sydney,Melbourne City,63.46,16.15,39.42,18.7,Open play,Medium through,Saved
+10,Sydney,Melbourne City,64.44,20.16,28.6,20.21,Open play,Short pass,Blocked
+10,Sydney,Melbourne City,65.37,16.85,26.23,17.27,Open play,Long through,Saved
+10,Sydney,Melbourne City,66.08,15.85,27.4,16.06,Open play,Short pass,Blocked
+10,Sydney,Melbourne City,74.39,22.65,37.82,23.96,Open play,Short pass,Missed
+10,Sydney,Melbourne City,75.11,20.67,29.35,20.68,Open play,Turnover,Blocked
+10,Sydney,Melbourne City,76.25,6.86,36.67,9.57,Open play,Cross,Missed
+10,Sydney,Melbourne City,82.13,22.43,38.99,24.16,Open play,Medium pass,Saved
+10,Sydney,Melbourne City,87.51,21.37,34.93,21.93,Open play,Short pass,Saved
+10,Sydney,Melbourne City,88.13,18.62,28.38,18.69,Open play,Turnover,Saved
+11,Melbourne City,Perth,8.44,3.95,27.98,4.44,Corner,Cross,Missed
+11,Melbourne City,Perth,9.56,13.56,36.44,15.01,Open play,Short pass,Saved
+11,Melbourne City,Perth,15.24,27,19.74,28.88,Open play,Medium pass,Blocked
+11,Melbourne City,Perth,17.12,11.3,41.94,16.44,Open play,Medium pass,Missed
+11,Melbourne City,Perth,18.32,5.85,27.29,6.45,Open play,Cross,Missed
+11,Melbourne City,Perth,26.15,16.45,43.16,21.07,Set play,Turnover,Missed
+11,Melbourne City,Perth,31.37,3.2,31.95,3.75,Corner,Corner,Saved
+11,Melbourne City,Perth,35,20.35,37.82,21.8,Open play,Medium pass,Saved
+11,Melbourne City,Perth,41.01,7.1,26.54,7.9,Open play,Cross,Missed
+11,Melbourne City,Perth,44.42,5.7,37.22,9.2,Corner,Corner,Missed
+11,Melbourne City,Perth,48.14,5.95,28.8,6.07,Open play,Cross,Missed
+11,Melbourne City,Perth,48.52,20.5,32.65,20.67,Open play,Header,Saved
+11,Melbourne City,Perth,56.18,30.3,10.75,35.9,Corner,Corner,Missed
+11,Melbourne City,Perth,62.15,16.4,31.35,16.46,Open play,Medium through,Goal
+11,Melbourne City,Perth,64,9.01,32.23,9.28,Open play,Short pass,Missed
+11,Melbourne City,Perth,68.1,8.14,25.7,9.21,Set play,Header,Goal
+11,Melbourne City,Perth,81.27,13.13,41.14,17.22,Open play,Cross,Missed
+11,Melbourne City,Perth,82.29,5.35,26.93,6.17,Open play,Cross,Goal
+11,Melbourne City,Perth,87.04,16.31,18.92,19.72,Open play,Medium through,Saved
+11,Melbourne City,Perth,92.01,30.25,7.55,37.67,Open play,Short through,Goal
+11,Perth,Melbourne City,34.12,32.04,37.35,32.87,Open play,Medium pass,Saved
+11,Perth,Melbourne City,40,31.58,29.8,31.58,Open play,Short pass,Saved
+11,Perth,Melbourne City,46.17,14.5,34.14,15.08,Set play,Header,Missed
+11,Perth,Melbourne City,70.41,16.13,45.97,22.7,Open play,Turnover,Saved
+11,Perth,Melbourne City,85.42,22.53,32.55,22.67,Open play,Short pass,Missed
+12,Adelaide,Sydney,12.52,12.21,32.89,12.55,Set play,Free Kick,Missed
+12,Adelaide,Sydney,36.48,27.23,23.05,28.1,Open play,Long through,Saved
+12,Adelaide,Sydney,49.1,16.7,18.28,20.4,Open play,Short pass,Blocked
+12,Adelaide,Sydney,52.57,25.86,39.33,27.49,Open play,Medium pass,Blocked
+12,Adelaide,Sydney,57.44,18.08,19.82,20.75,Open play,Short pass,Missed
+12,Adelaide,Sydney,78.26,14.7,19.74,17.93,Open play,Cross,Missed
+12,Adelaide,Sydney,87.39,29.33,39.19,30.74,Open play,Medium pass,Missed
+12,Sydney,Adelaide,21.16,16.65,19.97,19.44,Open play,Header,Blocked
+12,Sydney,Adelaide,21.2,20.1,28.21,20.18,Open play,Missed shot,Blocked
+12,Sydney,Adelaide,22.03,22.43,42.16,25.51,Open play,Short through,Missed
+12,Sydney,Adelaide,22.56,21,16.39,25.02,Open play,Medium pass,Missed
+12,Sydney,Adelaide,31.05,19.1,30.1,19.1,Open play,Short pass,Saved
+12,Sydney,Adelaide,34.23,9.7,28.35,9.84,Open play,Cross,Missed
+12,Sydney,Adelaide,35.45,21.6,27.98,21.69,Open play,Turnover,Blocked
+12,Sydney,Adelaide,37.18,23.43,26.38,23.71,Open play,Medium pass,Missed
+12,Sydney,Adelaide,39.22,17.5,42.31,21.4,Open play,Turnover,Missed
+12,Sydney,Adelaide,46.32,20.5,15.69,25,Open play,Free Kick,Saved
+12,Sydney,Adelaide,47.22,20.3,26.9,20.54,Set play,Missed shot,Missed
+12,Sydney,Adelaide,54.08,24.8,12.57,30.31,Open play,Short pass,Saved
+12,Sydney,Adelaide,59.24,16.55,28.7,16.6,Open play,Medium pass,Blocked
+12,Sydney,Adelaide,59.54,26.77,13.8,31.29,Open play,Turnover,Saved
+12,Sydney,Adelaide,60.37,13.27,20.04,16.59,Corner,Header,Missed
+12,Sydney,Adelaide,61.41,20.45,29.5,20.46,Open play,Medium pass,Missed
+12,Sydney,Adelaide,63.4,20.37,24.01,21.23,Open play,Header,Missed
+12,Sydney,Adelaide,65.18,22.88,28.22,22.95,Open play,Short pass,Missed
+12,Sydney,Adelaide,67.48,11.3,28.75,11.37,Open play,Long through,Goal
+12,Sydney,Adelaide,69.04,17.12,17.23,21.36,Open play,Short pass,Blocked
+12,Sydney,Adelaide,70.13,28.75,15.68,32.12,Open play,Long pass,Saved
+12,Sydney,Adelaide,85.1,27.68,29.54,27.68,Open play,Header,Missed
+12,Sydney,Adelaide,88.26,22.34,32.17,22.45,Open play,Short through,Blocked
+13,Melbourne City,Brisbane,5.3,11.07,28,11.25,Open play,Cross,Goal
+13,Melbourne City,Brisbane,7.42,16.15,26.94,16.44,Open play,Short pass,Saved
+13,Melbourne City,Brisbane,7.45,5.45,34.44,7.03,Open play,Missed shot,Saved
+13,Melbourne City,Brisbane,10.22,16.45,21.71,18.42,Open play,Short through,Missed
+13,Melbourne City,Brisbane,14.04,10.6,31.35,10.69,Open play,Cross,Missed
+13,Melbourne City,Brisbane,19.1,18.58,21.17,20.57,Corner,Header,Missed
+13,Melbourne City,Brisbane,25.42,25.69,22.31,26.82,Open play,Short pass,Saved
+13,Melbourne City,Brisbane,28.26,32.34,20.02,33.84,Open play,Long through,Missed
+13,Melbourne City,Brisbane,30.15,20.38,32.78,20.57,Open play,Medium pass,Blocked
+13,Melbourne City,Brisbane,30.18,13.39,27.56,13.61,Open play,Missed shot,Saved
+13,Melbourne City,Brisbane,32.52,20.72,21.62,22.35,Open play,Short pass,Missed
+13,Melbourne City,Brisbane,38.3,12.7,37.65,14.83,Corner,Cross,Saved
+13,Melbourne City,Brisbane,62.01,21.11,29.9,21.11,Corner,Header,Blocked
+13,Melbourne City,Brisbane,67.33,8.8,19.34,13.82,Open play,Long through,Saved
+13,Melbourne City,Brisbane,70.46,12.16,17.28,17.6,Open play,Medium through,Blocked
+13,Melbourne City,Brisbane,75.04,21.33,27.82,21.44,Open play,Short pass,Saved
+13,Melbourne City,Brisbane,82.29,12.93,16.36,18.79,Open play,Short through,Saved
+13,Melbourne City,Brisbane,86.41,8.72,17.16,15.52,Open play,Medium through,Missed
+13,Brisbane,Melbourne City,30.51,14.39,42.34,18.96,Open play,Cross,Missed
+13,Brisbane,Melbourne City,34.06,17.2,13.83,23.61,Open play,Long through,Blocked
+13,Brisbane,Melbourne City,34.12,20.25,31.87,20.34,Open play,Short pass,Missed
+13,Brisbane,Melbourne City,62.27,17.15,42.18,21.04,Open play,Long through,Blocked
+13,Brisbane,Melbourne City,65.31,16.12,41.26,19.66,Open play,Medium pass,Missed
+13,Brisbane,Melbourne City,68.39,6.1,37.45,9.63,Open play,Short pass,Saved
+13,Brisbane,Melbourne City,79.33,16.5,41.31,20,Open play,Medium pass,Blocked
+14,Newcastle,Brisbane,6,17.66,15.74,22.7,Open play,Medium pass,Missed
+14,Newcastle,Brisbane,14.48,19.7,30.3,19.7,Open play,Short pass,Missed
+14,Newcastle,Brisbane,20.44,14.47,43.1,19.52,Open play,Medium pass,Missed
+14,Newcastle,Brisbane,21.28,9.88,37.37,12.33,Open play,Medium through,Goal
+14,Newcastle,Brisbane,23.19,13.53,19.79,16.95,Open play,Long through,Missed
+14,Newcastle,Brisbane,39.03,7.57,19.33,13.08,Open play,Medium through,Saved
+14,Newcastle,Brisbane,46.13,8.03,18.05,14.4,Open play,Turnover,Saved
+14,Newcastle,Brisbane,55.08,13.07,19.05,17.05,Open play,Short pass,Goal
+14,Newcastle,Brisbane,57.21,9.4,21.8,12.47,Open play,Long through,Missed
+14,Newcastle,Brisbane,72.53,16.6,30.35,16.6,Open play,Header,Blocked
+14,Newcastle,Brisbane,75.27,8.94,24.24,10.63,Open play,Medium through,Goal
+14,Newcastle,Brisbane,88.09,8.72,17.36,15.36,Open play,Short through,Saved
+14,Newcastle,Brisbane,89.45,14.53,19.88,17.71,Open play,Medium through,Missed
+14,Brisbane,Newcastle,13.38,22.48,32.22,22.59,Open play,Short pass,Saved
+14,Brisbane,Newcastle,18.48,20.3,19.5,22.85,Open play,Turnover,Saved
+14,Brisbane,Newcastle,28.53,8.72,33.69,9.47,Corner,Corner,Missed
+14,Brisbane,Newcastle,40.17,16.6,34.92,17.31,Corner,Header,Missed
+14,Brisbane,Newcastle,40.46,35.78,19.42,37.31,Open play,Short pass,Missed
+14,Brisbane,Newcastle,42.57,15.53,35.62,16.52,Set play,Header,Saved
+14,Brisbane,Newcastle,49.01,5.96,36.99,9.19,Open play,Cross,Missed
+14,Brisbane,Newcastle,65.21,30.28,26.38,30.5,Open play,Long pass,Missed
+14,Brisbane,Newcastle,88.52,10.37,41.58,15.54,Open play,Short pass,Missed
+15,Perth,Brisbane,6.36,10.88,39.51,14.45,Open play,Medium pass,Blocked
+15,Perth,Brisbane,7.25,5.95,28.9,6.05,Open play,Turnover,Saved
+15,Perth,Brisbane,7.28,15.85,34.84,16.57,Open play,Missed shot,Goal
+15,Perth,Brisbane,13.23,13.76,34.61,14.51,Open play,Medium through,Missed
+15,Perth,Brisbane,13.53,20.35,28.75,20.39,Open play,Turnover,Blocked
+15,Perth,Brisbane,22.49,15.7,30.35,15.7,Set play,Missed shot,Blocked
+15,Perth,Brisbane,35.2,16.45,16.81,21.09,Open play,Medium through,Missed
+15,Perth,Brisbane,43.26,5.8,22.92,9.15,Open play,Header,Saved
+15,Perth,Brisbane,45,5.75,26.9,6.53,Set play,Free Kick,Missed
+15,Perth,Brisbane,49.54,24.08,21.8,25.44,Open play,Short pass,Blocked
+15,Perth,Brisbane,57.08,5.95,22.65,9.46,Open play,Long through,Missed
+15,Perth,Brisbane,87.08,25.46,8.72,33.18,Open play,Throw-in,Goal
+15,Brisbane,Perth,28.4,23.85,27.45,23.99,Open play,Short pass,Blocked
+15,Brisbane,Perth,33.47,24.77,32.15,24.86,Open play,Short pass,Missed
+15,Brisbane,Perth,59.22,17.2,23.38,18.43,Open play,Short pass,Saved
+15,Brisbane,Perth,65.42,5.4,42.12,13.27,Open play,Cross,Saved
+15,Brisbane,Perth,67.02,6.85,40.43,12.48,Open play,Cross,Saved
+15,Brisbane,Perth,67.08,13.72,37.45,15.61,Open play,Turnover,Blocked
+15,Brisbane,Perth,78.33,11.25,25.87,11.98,Open play,Cross,Missed
+15,Brisbane,Perth,83.5,6.42,34.16,7.65,Open play,Cross,Saved
+16,Canberra,Adelaide,2.23,20.28,20.48,22.4,Open play,Medium pass,Missed
+16,Canberra,Adelaide,3.01,18.3,43.33,22.64,Corner,Medium pass,Missed
+16,Canberra,Adelaide,5.32,8.22,36.22,10.31,Open play,Cross,Missed
+16,Canberra,Adelaide,8.11,9.9,21.39,13.12,Open play,Cross,Saved
+16,Canberra,Adelaide,8.13,27.82,3.77,38.24,Open play,Missed shot,Goal
+16,Canberra,Adelaide,13.01,23.39,39.66,25.31,Open play,Header,Saved
+16,Canberra,Adelaide,14.45,3.31,33.71,4.97,Open play,Cross,Missed
+16,Canberra,Adelaide,14.47,1.43,30.35,1.47,Open play,Missed shot,Goal
+16,Canberra,Adelaide,20.49,21.11,32.55,21.26,Open play,Short pass,Blocked
+16,Canberra,Adelaide,20.51,12.45,32.93,12.79,Open play,Missed shot,Saved
+16,Canberra,Adelaide,21.42,26.15,24.38,26.75,Open play,Turnover,Saved
+16,Canberra,Adelaide,32.52,21.56,41.95,24.65,Open play,Long pass,Blocked
+16,Canberra,Adelaide,35.43,5.79,20.62,11.02,Open play,Long through,Missed
+16,Canberra,Adelaide,51.36,24.54,21.52,25.96,Open play,Short pass,Missed
+16,Canberra,Adelaide,53.08,21.07,40.36,23.48,Open play,Short pass,Blocked
+16,Canberra,Adelaide,58.36,20.47,28.55,20.52,Open play,Short pass,Missed
+16,Canberra,Adelaide,64.21,14.61,23.37,16.04,Open play,Corner,Missed
+16,Canberra,Adelaide,82.52,7.11,39.21,11.64,Open play,Medium through,Goal
+16,Adelaide,Canberra,6.45,19.75,23.78,20.71,Open play,Short pass,Saved
+16,Adelaide,Canberra,38.06,4.47,29.56,4.49,Open play,Cross,Missed
+16,Adelaide,Canberra,42.11,15.22,41.59,19.13,Open play,Medium pass,Missed
+16,Adelaide,Canberra,66.26,11.1,27.81,11.31,Open play,Cross,Saved
+16,Adelaide,Canberra,87.02,10.5,28.05,10.68,Set play,Free Kick,Saved
+17,Canberra,Melbourne Victory,8.4,17.56,32.5,17.74,Open play,Medium pass,Blocked
+17,Canberra,Melbourne Victory,11.1,16.5,27.07,16.76,Open play,Short pass,Blocked
+17,Canberra,Melbourne Victory,13.4,3.75,33.9,5.41,Open play,Medium pass,Saved
+17,Canberra,Melbourne Victory,18.03,8.49,37.54,11.35,Open play,Long through,Missed
+17,Canberra,Melbourne Victory,21.2,19.37,22.94,20.62,Open play,Short pass,Saved
+17,Canberra,Melbourne Victory,27.26,7.12,28.09,7.37,Open play,Cross,Missed
+17,Canberra,Melbourne Victory,31.33,5.9,27.3,6.49,Corner,Corner,Missed
+17,Canberra,Melbourne Victory,33.11,19.22,28.32,19.29,Open play,Medium pass,Missed
+17,Canberra,Melbourne Victory,35.02,20.45,33.98,20.83,Open play,Short pass,Saved
+17,Canberra,Melbourne Victory,36.04,30.5,35.62,31.01,Open play,Medium pass,Saved
+17,Canberra,Melbourne Victory,38.31,14.89,22.12,16.85,Open play,Short pass,Blocked
+17,Canberra,Melbourne Victory,46.43,16.3,29.72,16.3,Open play,Short through,Goal
+17,Canberra,Melbourne Victory,49.05,25.69,33.84,25.98,Open play,Short pass,Missed
+17,Canberra,Melbourne Victory,51.42,20.46,38.28,22.07,Set play,Free Kick,Missed
+17,Canberra,Melbourne Victory,55.17,5.42,38.89,10.41,Open play,Medium through,Goal
+17,Canberra,Melbourne Victory,79.13,11.4,27.19,11.74,Open play,Medium through,Saved
+17,Canberra,Melbourne Victory,79.14,4.63,24.75,7,Open play,Missed shot,Goal
+17,Canberra,Melbourne Victory,83.43,16.61,28.19,16.71,Open play,Medium pass,Blocked
+17,Canberra,Melbourne Victory,85.01,23.85,22,25.16,Open play,Long pass,Missed
+17,Canberra,Melbourne Victory,87.02,5.4,34.45,7,Corner,Corner,Missed
+17,Melbourne Victory,Canberra,3.51,19.7,28.96,19.73,Open play,Medium pass,Saved
+17,Melbourne Victory,Canberra,54.04,29.13,41.87,31.46,Open play,Throw-in,Missed
+17,Melbourne Victory,Canberra,82.35,28.9,17.19,31.61,Open play,Short pass,Saved
+18,Canberra,Western Sydney,4.25,21.33,32.95,21.53,Corner,Short pass,Missed
+18,Canberra,Western Sydney,5.1,10.9,35.6,12.25,Open play,Medium through,Goal
+18,Canberra,Western Sydney,9.07,19.85,31.81,19.93,Open play,Short pass,Saved
+18,Canberra,Western Sydney,10.1,20.61,33.02,20.83,Corner,Corner,Blocked
+18,Canberra,Western Sydney,10.18,2.98,26.07,4.93,Open play,Cross,Goal
+18,Canberra,Western Sydney,16.5,5.55,27.47,6.1,Open play,Cross,Saved
+18,Canberra,Western Sydney,27.18,27.29,20.03,29.05,Open play,Medium pass,Missed
+18,Canberra,Western Sydney,31.3,11.32,20.94,14.5,Open play,Short pass,Missed
+18,Canberra,Western Sydney,39.2,28.9,31.36,28.93,Open play,Medium pass,Blocked
+18,Canberra,Western Sydney,43.06,23.17,13.92,28.2,Open play,Long pass,Saved
+18,Canberra,Western Sydney,48.31,20.1,28.42,20.16,Open play,Short pass,Missed
+18,Canberra,Western Sydney,51.36,9.5,27.05,9.95,Open play,Long through,Missed
+18,Canberra,Western Sydney,57.11,8.22,28.28,8.4,Open play,Short through,Goal
+18,Canberra,Western Sydney,69.03,5.67,21.62,10.12,Open play,Short through,Missed
+18,Canberra,Western Sydney,69.52,18.43,6.19,30.11,Open play,Throw-in,Missed
+18,Canberra,Western Sydney,70.52,11.28,28.19,11.42,Open play,Corner,Blocked
+18,Canberra,Western Sydney,71.03,23.85,41.58,26.51,Open play,Turnover,Saved
+18,Canberra,Western Sydney,72.35,25.23,23.92,25.95,Open play,Medium pass,Saved
+18,Canberra,Western Sydney,75.11,16.27,31.63,16.35,Open play,Cross,Missed
+18,Canberra,Western Sydney,77.38,21.56,23.48,22.52,Corner,Corner,Saved
+18,Canberra,Western Sydney,81.38,8.13,22.94,10.77,Open play,Cross,Blocked
+18,Canberra,Western Sydney,82.17,11.83,22.17,14.19,Corner,Short pass,Blocked
+18,Canberra,Western Sydney,82.19,11.25,27.31,11.57,Corner,Missed shot,Blocked
+18,Canberra,Western Sydney,86.06,11.34,28.1,11.5,Open play,Medium pass,Missed
+18,Canberra,Western Sydney,86.49,22.48,33.61,22.77,Open play,Header,Missed
+18,Canberra,Western Sydney,90.46,20.28,30.67,20.29,Open play,Medium pass,Missed
+18,Western Sydney,Canberra,28.5,25.23,32.7,25.37,Open play,Medium pass,Missed
+18,Western Sydney,Canberra,30.5,24.08,22.23,25.3,Open play,Medium pass,Missed
+18,Western Sydney,Canberra,36.22,25.92,28.59,25.96,Open play,Medium pass,Blocked
+18,Western Sydney,Canberra,74.39,23.39,31.28,23.42,Open play,Header,Missed
+18,Western Sydney,Canberra,79.46,9.49,30.87,9.53,Corner,Corner,Blocked
+18,Western Sydney,Canberra,79.47,3.1,31.25,3.34,Corner,Missed shot,Blocked
+18,Western Sydney,Canberra,80.2,20.2,28.78,20.24,Corner,Turnover,Blocked
+19,Canberra,Adelaide,3.46,19.76,39.81,22.06,Open play,Short pass,Saved
+19,Canberra,Adelaide,12.35,20.45,38.66,22.21,Open play,Cross,Saved
+19,Canberra,Adelaide,24.39,16.66,14.32,22.88,Open play,Medium pass,Missed
+19,Canberra,Adelaide,34.38,5.88,27.96,6.22,Corner,Cross,Missed
+19,Canberra,Adelaide,48.26,15.67,29.75,15.67,Open play,Short pass,Saved
+19,Canberra,Adelaide,48.28,8.92,25.63,9.93,Open play,Missed shot,Saved
+19,Canberra,Adelaide,52.25,16.7,25.71,17.24,Open play,Medium through,Missed
+19,Canberra,Adelaide,64.07,25.4,30.54,25.41,Set play,Missed shot,Missed
+19,Canberra,Adelaide,67.34,24.49,27.43,24.62,Open play,Medium pass,Blocked
+19,Canberra,Adelaide,71.56,20.54,38.42,22.2,Open play,Short pass,Blocked
+19,Canberra,Adelaide,72.32,24.03,32.7,24.18,Open play,Short pass,Blocked
+19,Canberra,Adelaide,75.14,26.65,38.36,27.93,Set play,Short pass,Missed
+19,Canberra,Adelaide,83.4,11.26,28.9,11.31,Corner,Corner,Missed
+19,Canberra,Adelaide,84.23,20.25,32.16,20.36,Open play,Medium pass,Missed
+19,Canberra,Adelaide,90.33,20.18,38.65,21.96,Open play,Long through,Saved
+19,Canberra,Adelaide,91.56,16.71,42.77,21.03,Open play,Cross,Missed
+19,Adelaide,Canberra,16.31,4.75,25.77,6.36,Open play,Cross,Missed
+19,Adelaide,Canberra,19.38,20.31,31.07,20.34,Open play,Medium pass,Saved
+19,Adelaide,Canberra,42.49,16.82,31.45,16.88,Open play,Cross,Goal
+19,Adelaide,Canberra,54.08,24.94,28.01,25.02,Open play,Short pass,Missed
+19,Adelaide,Canberra,56.32,3.45,22.94,7.86,Open play,Cross,Saved
+19,Adelaide,Canberra,57.53,14.82,30.98,14.85,Open play,Cross,Saved
+19,Adelaide,Canberra,58.13,26.77,21.56,28.07,Open play,Header,Saved
+19,Adelaide,Canberra,70.07,24.49,18.16,27.2,Open play,Medium through,Blocked
+19,Adelaide,Canberra,70.12,22.8,32.43,22.93,Open play,Turnover,Blocked
+19,Adelaide,Canberra,76.15,29.75,35.77,30.3,Open play,Short pass,Missed
+19,Adelaide,Canberra,79.01,2.35,29.45,2.41,Open play,Short pass,Missed
+19,Adelaide,Canberra,82.01,15.98,17.91,20.04,Open play,Header,Missed
+19,Adelaide,Canberra,90.57,10.76,36.29,12.46,Open play,Long through,Missed
+20,Canberra,Sydney,11.01,5.79,26.59,6.72,Corner,Corner,Saved
+20,Canberra,Sydney,11.34,15.78,32.1,15.92,Corner,Corner,Missed
+20,Canberra,Sydney,15.5,16.24,36.34,17.43,Open play,Long through,Saved
+20,Canberra,Sydney,19.22,27.92,18.41,30.23,Open play,Short pass,Missed
+20,Canberra,Sydney,33.46,20.59,24.13,21.41,Open play,Header,Saved
+20,Canberra,Sydney,34.21,13.36,15.05,20.05,Open play,Cross,Saved
+20,Canberra,Sydney,35.06,5.66,36.57,8.67,Corner,Corner,Missed
+20,Canberra,Sydney,37.16,21.28,33.48,21.56,Open play,Short pass,Saved
+20,Canberra,Sydney,40.57,11.66,38.11,14.2,Open play,Short pass,Missed
+20,Canberra,Sydney,50.1,19.08,17.62,22.74,Open play,Short pass,Saved
+20,Canberra,Sydney,61.49,49.65,30.35,49.65,Open play,N/A,Missed
+20,Canberra,Sydney,80.21,7.12,28.14,7.36,Open play,Cross,Saved
+20,Canberra,Sydney,86.1,5.22,32.77,5.91,Corner,Header,Blocked
+20,Canberra,Sydney,88.51,10.85,24.39,12.21,Corner,Header,Missed
+20,Sydney,Canberra,4.49,27.46,18.54,29.76,Open play,Throw-in,Missed
+20,Sydney,Canberra,8.49,11.4,24.49,12.66,Open play,Short pass,Missed
+20,Sydney,Canberra,9.12,23.11,24.26,23.81,Open play,Turnover,Blocked
+20,Sydney,Canberra,20.14,14.04,26.46,14.48,Open play,Medium pass,Missed
+20,Sydney,Canberra,22.07,11.55,39.33,14.85,Open play,Long through,Blocked
+20,Sydney,Canberra,22.48,6.58,28.99,6.66,Corner,Corner,Missed
+20,Sydney,Canberra,26.08,16.78,33.7,17.18,Open play,Short pass,Blocked
+20,Sydney,Canberra,35.5,16.05,41.39,19.68,Open play,Long through,Missed
+20,Sydney,Canberra,42.31,11.15,39.31,14.53,Open play,Medium pass,Missed
+20,Sydney,Canberra,44.57,49.12,38.11,49.79,Open play,Turnover,Missed
+20,Sydney,Canberra,45.53,21.09,38.96,22.91,Open play,Long pass,Blocked
+20,Sydney,Canberra,45.55,16.55,19.75,19.47,Open play,Missed shot,Missed
+20,Sydney,Canberra,48.39,11.25,27.86,11.45,Corner,Corner,Missed
+20,Sydney,Canberra,53.51,24.36,26.86,24.56,Open play,Short pass,Missed
+20,Sydney,Canberra,60.3,6.16,30.35,6.17,Open play,Header,Goal
+20,Sydney,Canberra,90.25,12.15,23.59,13.74,Open play,Medium through,Saved
+20,Sydney,Canberra,93.1,24.49,19.35,26.71,Open play,Turnover,Saved
+21,Melbourne City,Western Sydney,6.09,13.36,17.16,18.53,Open play,Medium through,Saved
+21,Melbourne City,Western Sydney,10.23,23.8,32.6,23.94,Open play,Medium pass,Saved
+21,Melbourne City,Western Sydney,11.24,5.82,32.19,6.22,Open play,Cross,Saved
+21,Melbourne City,Western Sydney,11.27,5.95,29.1,6.02,Open play,Missed shot,Goal
+21,Melbourne City,Western Sydney,16.44,17.7,32.75,17.91,Open play,Medium pass,Blocked
+21,Melbourne City,Western Sydney,17.15,11.21,20.33,14.8,Corner,Corner,Saved
+21,Melbourne City,Western Sydney,18.43,16.88,28.9,16.92,Open play,Medium pass,Saved
+21,Melbourne City,Western Sydney,31.28,16.75,27.96,16.87,Open play,Cross,Saved
+21,Melbourne City,Western Sydney,39.26,27.92,21.12,29.3,Open play,Medium pass,Missed
+21,Melbourne City,Western Sydney,40.06,5.15,26.95,5.99,Open play,Cross,Saved
+21,Melbourne City,Western Sydney,49.04,5.7,27.29,6.31,Open play,Medium through,Saved
+21,Melbourne City,Western Sydney,61.16,10.15,24.32,11.63,Open play,Long through,Saved
+21,Melbourne City,Western Sydney,66.17,12.08,40.96,16.31,Open play,Medium pass,Goal
+21,Melbourne City,Western Sydney,68.54,7.55,35.21,9.17,Open play,Short pass,Goal
+21,Melbourne City,Western Sydney,81.55,16.59,28.85,16.63,Open play,Cross,Missed
+21,Melbourne City,Western Sydney,82.32,18.8,33.4,19.1,Open play,Short pass,Missed
+21,Melbourne City,Western Sydney,88.03,6.56,25.6,7.9,Open play,Cross,Saved
+21,Western Sydney,Melbourne City,19.12,23.61,56.56,35.54,Open play,Long through,Missed
+21,Western Sydney,Melbourne City,24.32,24.5,37.5,25.62,Open play,Medium pass,Missed
+21,Western Sydney,Melbourne City,35.39,6.06,33.99,7.26,Corner,Corner,Blocked
+21,Western Sydney,Melbourne City,53.24,12.67,40.19,16.26,Open play,Throw-in,Missed
+21,Western Sydney,Melbourne City,62.42,20.37,33.57,20.68,Open play,Medium pass,Missed
+21,Western Sydney,Melbourne City,67.08,34.32,25.05,34.68,Open play,Turnover,Missed
+22,Melbourne City,Brisbane,25.24,10.08,26.07,10.82,Open play,Cross,Saved
+22,Melbourne City,Brisbane,26.57,22.9,29.58,22.9,Open play,Turnover,Saved
+22,Melbourne City,Brisbane,27.44,11.91,19.16,16.1,Corner,Header,Saved
+22,Melbourne City,Brisbane,33.35,19.19,33.53,19.51,Open play,Cross,Saved
+22,Melbourne City,Brisbane,33.42,8.92,33.53,9.59,Open play,Cross,Saved
+22,Melbourne City,Brisbane,38.06,19.79,19.56,22.37,Open play,Long through,Missed
+22,Melbourne City,Brisbane,48.34,12.53,18.02,17.34,Open play,Long through,Missed
+22,Melbourne City,Brisbane,52.42,11.25,30.1,11.25,Open play,Medium through,Goal
+22,Melbourne City,Brisbane,56.14,28.15,37.82,29.22,Open play,Turnover,Missed
+22,Melbourne City,Brisbane,60.02,23.44,21.74,24.85,Open play,Turnover,Blocked
+22,Melbourne City,Brisbane,60.36,13.85,30.88,13.88,Open play,Header,Goal
+22,Melbourne City,Brisbane,66.07,8.02,20.51,12.42,Open play,Cross,Saved
+22,Melbourne City,Brisbane,68.13,26.33,22.8,27.3,Open play,Medium pass,Missed
+22,Melbourne City,Brisbane,72.09,8.93,21.2,12.54,Open play,Medium pass,Blocked
+22,Melbourne City,Brisbane,78.22,11.07,30.85,11.1,Set play,Cross,Goal
+22,Melbourne City,Brisbane,79.56,14.5,27.89,14.65,Open play,Short pass,Goal
+22,Melbourne City,Brisbane,83.07,20.73,32.93,20.94,Open play,Short pass,Blocked
+22,Melbourne City,Brisbane,85.16,15.17,39.19,17.74,Open play,Turnover,Saved
+22,Brisbane,Melbourne City,16.42,13.79,41.39,17.89,Open play,Short through,Saved
+22,Brisbane,Melbourne City,34.34,20.2,27.06,20.41,Open play,Header,Blocked
+22,Brisbane,Melbourne City,39.2,19.26,15.33,24.21,Open play,Header,Missed
+22,Brisbane,Melbourne City,51.34,31.58,35.25,32.01,Open play,Short pass,Saved
+22,Brisbane,Melbourne City,69.26,8.92,35.52,10.49,Open play,Medium through,Saved
+22,Brisbane,Melbourne City,91.2,10.53,13.49,19.58,Open play,Medium through,Missed
+23,Melbourne City,Adelaide,6.16,11.67,26.7,12.13,Open play,Cross,Missed
+23,Melbourne City,Adelaide,7.24,16.35,33.71,16.77,Corner,Cross,Blocked
+23,Melbourne City,Adelaide,7.37,5.12,32.18,5.56,Open play,Cross ,Saved
+23,Melbourne City,Adelaide,11.03,29.98,32.23,30.06,Open play,Medium pass,Missed
+23,Melbourne City,Adelaide,14.26,6.18,33.45,7.08,Open play,Cross,Saved
+23,Melbourne City,Adelaide,20.15,18.54,14.37,24.25,Open play,Medium pass,Missed
+23,Melbourne City,Adelaide,30.46,24.26,35.26,24.82,Corner,Header,Saved
+23,Melbourne City,Adelaide,31.4,16.86,28.25,16.95,Open play,Turnover,Blocked
+23,Melbourne City,Adelaide,32.14,22.15,32.57,22.3,Open play,Turnover,Blocked
+23,Melbourne City,Adelaide,36.36,16.66,34.52,17.26,Open play,Medium pass,Blocked
+23,Melbourne City,Adelaide,36.42,21.45,29.16,21.47,Open play,Missed shot,Saved
+23,Melbourne City,Adelaide,39.3,16.3,23.42,17.58,Open play,Medium through,Missed
+23,Melbourne City,Adelaide,43.07,28.6,26.48,28.82,Open play,Medium pass,Blocked
+23,Melbourne City,Adelaide,43.3,11.67,23.87,13.18,Open play,Cross,Goal
+23,Melbourne City,Adelaide,54.18,20.55,28.6,20.6,Open play,Medium pass,Missed
+23,Melbourne City,Adelaide,55.09,4.1,27.06,5.05,Open play,Cross,Missed
+23,Melbourne City,Adelaide,58.54,10.65,29.9,10.65,Open play,Cross,Blocked
+23,Melbourne City,Adelaide,58.57,19.46,30.87,19.48,Open play,Missed shot,Blocked
+23,Melbourne City,Adelaide,60.22,22.54,30.57,22.55,Open play,Short pass,Saved
+23,Melbourne City,Adelaide,69.57,20.39,32.47,20.54,Open play,Short pass,Blocked
+23,Melbourne City,Adelaide,70.16,3.01,32.3,3.79,Open play,Cross,Goal
+23,Melbourne City,Adelaide,75.47,24.96,25,25.46,Open play,Short pass,Missed
+23,Melbourne City,Adelaide,85.37,26.77,36.59,27.57,Open play,Medium pass,Missed
+23,Melbourne City,Adelaide,90.45,16.85,20.65,19.27,Open play,Cross,Missed
+23,Adelaide,Melbourne City,3.47,20.85,28.05,20.94,Open play,Short pass,Blocked
+23,Adelaide,Melbourne City,47.44,22.2,23.59,23.11,Open play,Medium pass,Saved
+24,Sydney,Melbourne Victory,1.01,24.71,40.55,26.87,Open play,Turnover,Saved
+24,Sydney,Melbourne Victory,7.32,16.55,32.1,16.68,Open play,Short pass,Missed
+24,Sydney,Melbourne Victory,9.47,7.55,24.93,9.09,Open play,Cross,Goal
+24,Sydney,Melbourne Victory,11.58,22.97,20.79,24.75,Open play,Short pass,Saved
+24,Sydney,Melbourne Victory,15.51,7.32,28.01,7.59,Open play,Long through,Saved
+24,Sydney,Melbourne Victory,19.59,13.04,36.12,14.4,Corner,Header,Saved
+24,Sydney,Melbourne Victory,21.42,2.29,34.33,4.9,Open play,Cross,Goal
+24,Sydney,Melbourne Victory,23.23,26.77,30.12,26.77,Open play,Short pass,Blocked
+24,Sydney,Melbourne Victory,23.3,24.94,35.43,25.52,Open play,Medium pass,Missed
+24,Sydney,Melbourne Victory,30.09,18.85,28.53,18.91,Open play,Turnover,Saved
+24,Sydney,Melbourne Victory,32.49,12.42,27.12,12.75,Open play,Cross,Missed
+24,Sydney,Melbourne Victory,38.23,16.61,20.25,19.26,Open play,Long through,Saved
+24,Sydney,Melbourne Victory,57.56,18.16,18.02,21.76,Open play,Medium pass,Missed
+24,Sydney,Melbourne Victory,71.17,22.37,33.84,22.7,Open play,Short pass,Missed
+24,Sydney,Melbourne Victory,71.38,11.62,24.46,12.87,Open play,Medium through,Saved
+24,Sydney,Melbourne Victory,71.53,21.18,32.24,21.3,Open play,Short pass,Saved
+24,Sydney,Melbourne Victory,90.38,11.05,30.67,11.07,Open play,Turnover,Blocked
+24,Melbourne Victory,Sydney,8.58,19.85,30,19.85,Open play,Medium pass,Missed
+24,Melbourne Victory,Sydney,8.59,10.37,27.86,10.59,Open play,Missed shot,Saved
+24,Melbourne Victory,Sydney,12.52,11.82,42.6,17.28,Open play,Short through,Missed
+24,Melbourne Victory,Sydney,38.08,14.04,20.65,16.87,Open play,Medium through,Blocked
+24,Melbourne Victory,Sydney,45.57,13.74,34.86,14.57,Open play,Turnover,Goal
+24,Melbourne Victory,Sydney,51.38,7.55,18.62,13.66,Open play,Long through,Saved
+24,Melbourne Victory,Sydney,52.39,5.89,33.52,6.86,Corner,Corner,Saved
+24,Melbourne Victory,Sydney,76.05,29.52,45.09,33.15,Open play,Turnover,Saved
+24,Melbourne Victory,Sydney,81.27,11.12,33.11,11.55,Open play,Medium pass,Saved
+24,Melbourne Victory,Sydney,92.11,4.98,33.1,5.87,Corner,Corner,Blocked
+24,Melbourne Victory,Sydney,93.15,10.89,32.6,11.2,Open play,Cross,Saved
+24,Melbourne Victory,Sydney,93.48,2.87,27.07,4.1,Open play,Corner,Missed
+25,Newcastle,Adelaide,1.37,28.6,33.38,28.8,Open play,Turnover,Saved
+25,Newcastle,Adelaide,2.34,19.85,27.23,20.04,Open play,Short pass,Missed
+25,Newcastle,Adelaide,6.09,4.87,25.6,6.56,Corner,Corner,Missed
+25,Newcastle,Adelaide,8,10.7,43.68,17.37,Open play,Long pass,Missed
+25,Newcastle,Adelaide,20.11,8.88,34.07,9.77,Set play,Free Kick,Missed
+25,Newcastle,Adelaide,20.57,30.44,38.65,31.65,Open play,Medium pass,Missed
+25,Newcastle,Adelaide,38.24,16.01,26.69,16.35,Open play,Header,Missed
+25,Newcastle,Adelaide,42.33,29.52,27.21,29.65,Open play,Medium pass,Saved
+25,Newcastle,Adelaide,44.08,17.1,22.26,18.77,Open play,Turnover,Blocked
+25,Newcastle,Adelaide,55.44,5.92,23.63,8.7,Open play,Short pass,Saved
+25,Newcastle,Adelaide,56.03,11.67,34.99,12.69,Corner,Corner,Missed
+25,Newcastle,Adelaide,56.47,21.82,24.32,22.55,Open play,Long pass,Missed
+25,Newcastle,Adelaide,69.56,12.01,29.8,12.01,Open play,Cross,Missed
+25,Newcastle,Adelaide,76,10.65,29.9,10.65,Corner,Corner,Saved
+25,Newcastle,Adelaide,81.49,5.6,31.38,5.77,Open play,Short pass,Missed
+25,Adelaide,Newcastle,10.46,30.21,29.19,30.22,Open play,Medium pass,Missed
+25,Adelaide,Newcastle,12.57,16.85,29.85,16.85,Open play,Medium pass,Goal
+25,Adelaide,Newcastle,25.05,5.77,36.44,8.65,Set play,Free Kick,Goal
+25,Adelaide,Newcastle,65.4,22.35,28.8,22.38,Corner,Corner,Missed
+25,Adelaide,Newcastle,67.13,6.15,27.02,6.83,Open play,Cross,Missed
+25,Adelaide,Newcastle,74.01,13.36,27.75,13.55,Open play,Long through,Saved
+25,Adelaide,Newcastle,74.04,7.78,25.46,9.01,Open play,Missed shot,Goal
+25,Adelaide,Newcastle,81.12,21.14,51.23,29.96,Open play,Short pass,Missed
+25,Adelaide,Newcastle,87.19,18.76,30,18.76,Open play,Short pass,Saved
+25,Adelaide,Newcastle,90.22,20.86,32.98,21.07,Open play,Medium pass,Goal
+25,Adelaide,Newcastle,92.23,12.79,22.94,14.61,Open play,Short pass,Missed
+25,Adelaide,Newcastle,92.54,20.1,34.3,20.55,Open play,Short pass,Blocked
+25,Adelaide,Newcastle,93.04,8.44,40.25,13.28,Open play,Short pass,Missed
+26,Newcastle,Melbourne City,5.09,29.06,29.62,29.06,Open play,Short pass,Missed
+26,Newcastle,Melbourne City,76.21,21.14,35.21,21.77,Open play,Short pass,Blocked
+26,Melbourne City,Newcastle,7,4.8,21.57,9.7,Open play,Medium through,Saved
+26,Melbourne City,Newcastle,17.15,13.56,24.77,14.53,Open play,Medium through,Blocked
+26,Melbourne City,Newcastle,17.28,5.38,39.79,11.17,Open play,Long through,Saved
+26,Melbourne City,Newcastle,36.49,23.57,38.42,25.03,Open play,Medium pass,Blocked
+26,Melbourne City,Newcastle,43.41,20.28,30.27,20.28,Open play,Short pass,Goal
+26,Melbourne City,Newcastle,46.18,12.44,17.54,17.61,Open play,Medium through,Missed
+26,Melbourne City,Newcastle,48.46,27.23,34.37,27.58,Open play,Long through,Saved
+26,Melbourne City,Newcastle,54.39,5.78,30.62,5.81,Open play,Cross,Missed
+26,Melbourne City,Newcastle,78.3,5.92,30.13,5.92,Corner,Corner,Missed
+26,Melbourne City,Newcastle,81.44,11.99,23.32,13.73,Open play,Short pass,Blocked
+26,Melbourne City,Newcastle,86.4,11.05,38.33,13.84,Open play,Medium pass,Saved
+27,Newcastle,Melbourne Victory,5.12,5.12,28.12,5.45,Set play,Free Kick,Missed
+27,Newcastle,Melbourne Victory,12.11,9.15,38.79,12.69,Open play,Short pass,Saved
+27,Newcastle,Melbourne Victory,15.17,41.16,9.84,45.83,Open play,Short pass,Saved
+27,Newcastle,Melbourne Victory,19.05,24.03,37.05,25.04,Open play,Short pass,Saved
+27,Newcastle,Melbourne Victory,20.27,24.71,32.4,24.83,Open play,Short pass,Missed
+27,Newcastle,Melbourne Victory,23.41,11.66,34.06,12.35,Open play,Cross,Missed
+27,Newcastle,Melbourne Victory,35.49,22.01,19.05,24.58,Open play,Throw-in,Blocked
+27,Newcastle,Melbourne Victory,46.26,20.45,12.1,27.18,Open play,Turnover,Missed
+27,Newcastle,Melbourne Victory,63.52,11.3,27.8,11.51,Open play,Cross,Missed
+27,Newcastle,Melbourne Victory,69.04,11.35,43.36,17.53,Open play,Long through,Saved
+27,Newcastle,Melbourne Victory,77.28,20.72,38.19,22.28,Corner,Corner,Blocked
+27,Melbourne Victory,Newcastle,0.02,49.98,26.8,50.08,Open play,N/A,Missed
+27,Melbourne Victory,Newcastle,12.36,20.45,40.02,22.77,Open play,Long through,Goal
+27,Melbourne Victory,Newcastle,27.46,12.47,33.15,12.86,Open play,Cross,Blocked
+27,Melbourne Victory,Newcastle,28.53,28.37,27.21,28.51,Corner,Corner,Saved
+27,Melbourne Victory,Newcastle,48.37,6.5,42.77,14.33,Open play,Long through,Saved
+27,Melbourne Victory,Newcastle,74.49,20.2,15.76,24.71,Open play,Long through,Blocked
+27,Melbourne Victory,Newcastle,75.04,24.26,18.51,26.84,Open play,Short pass,Missed
+27,Melbourne Victory,Newcastle,76.25,11.12,20.57,14.58,Open play,Short pass,Saved
+27,Melbourne Victory,Newcastle,87.08,20.76,38.33,22.37,Open play,Short pass,Saved
+27,Melbourne Victory,Newcastle,89.28,12.89,36.59,14.48,Open play,Cross,Saved
+27,Melbourne Victory,Newcastle,92.17,17.92,30.33,17.92,Open play,Short through,Blocked
+28,Melbourne City,Perth,10.53,2.97,27.66,3.78,Open play,Cross,Goal
+28,Melbourne City,Perth,14.16,12.87,40.48,16.6,Open play,Short pass,Missed
+28,Melbourne City,Perth,16.15,10.15,20.8,13.7,Open play,Cross,Blocked
+28,Melbourne City,Perth,17.06,31.81,28.12,31.87,Open play,Turnover,Blocked
+28,Melbourne City,Perth,20.06,10.88,31.85,11.04,Open play,Cross,Goal
+28,Melbourne City,Perth,24.52,11.87,27.98,12.04,Open play,Short pass,Blocked
+28,Melbourne City,Perth,26.33,6.7,29.9,6.7,Corner,Corner,Missed
+28,Melbourne City,Perth,35.24,16.95,41.85,20.68,Open play,Medium pass,Blocked
+28,Melbourne City,Perth,47.08,13.81,16.99,18.97,Open play,Turnover,Saved
+28,Melbourne City,Perth,51.45,10.5,30.8,10.53,Open play,Medium through,Goal
+28,Melbourne City,Perth,53.48,8.7,24.09,10.52,Open play,Short through,Saved
+28,Melbourne City,Perth,62.5,16.55,24.23,17.53,Open play,Long through,Goal
+28,Melbourne City,Perth,74.57,8.5,27.2,8.95,Open play,Cross ,Missed
+28,Melbourne City,Perth,83.43,21,21.26,22.75,Open play,Medium pass,Missed
+28,Melbourne City,Perth,86.47,16.12,23.2,17.5,Open play,Medium pass,Saved
+28,Perth,Melbourne City,40.44,16.6,28.85,16.64,Open play,Cross,Missed
+28,Perth,Melbourne City,50.58,16.72,40.56,19.78,Open play,Long through,Blocked
+28,Perth,Melbourne City,83.14,25.4,36.13,26.13,Open play,Turnover,Saved
+28,Perth,Melbourne City,89.54,13.25,38.65,15.82,Open play,Medium through,Saved
+28,Perth,Melbourne City,91.1,13.15,40.48,16.82,Open play,Long through,Saved
+29,Sydney,Perth,5.15,8.68,24.77,10.13,Open play,Short pass,Missed
+29,Sydney,Perth,8.41,11.17,19.74,15.17,Open play,Long through,Saved
+29,Sydney,Perth,25.4,5.82,29.62,5.83,Open play,Cross,Goal
+29,Sydney,Perth,32.28,16.32,32.87,16.57,Open play,Long through,Missed
+29,Sydney,Perth,33.36,15.32,29.87,15.32,Open play,Short pass,Saved
+29,Sydney,Perth,38.1,14.96,27.66,15.14,Open play,Medium through,Goal
+29,Sydney,Perth,47.2,13.27,29.88,13.27,Open play,Medium pass,Goal
+29,Sydney,Perth,54.06,22.43,23.54,23.34,Open play,Long through,Missed
+29,Sydney,Perth,62.25,16.7,21.8,18.6,Open play,Medium through,Saved
+29,Sydney,Perth,72.45,42.08,33.12,42.2,Open play,Turnover,Missed
+29,Sydney,Perth,81.01,16.1,40.71,19.34,Open play,Long through,Missed
+29,Sydney,Perth,84.21,14.87,26.75,15.22,Open play,Short through,Goal
+29,Perth,Sydney,4.14,16.98,29.9,16.98,Open play,Cross,Goal
+29,Perth,Sydney,69.51,25.4,27.52,25.52,Open play,Short pass,Missed
+29,Perth,Sydney,74.45,28.6,28.49,28.64,Open play,Medium pass,Missed
+29,Perth,Sydney,76.55,16.44,25.3,17.1,Open play,Short pass,Missed
+30,Melbourne Victory,Perth,2.4,20.2,29.1,20.22,Corner,Short pass,Saved
+30,Melbourne Victory,Perth,8.05,5.12,29.13,5.19,Open play,Cross,Goal
+30,Melbourne Victory,Perth,17.03,13.12,30.86,13.15,Open play,Cross,Saved
+30,Melbourne Victory,Perth,47.17,16.85,30.33,16.85,Open play,Short pass,Missed
+30,Melbourne Victory,Perth,49.09,16.6,12.87,23.85,Open play,Medium pass,Missed
+30,Melbourne Victory,Perth,53.06,18.15,25.6,18.68,Open play,Turnover,Saved
+30,Melbourne Victory,Perth,74.51,8.199,37.05,10.81,Open play,Cross,Missed
+30,Melbourne Victory,Perth,84.21,26.54,36.36,27.29,Open play,Short pass,Missed
+30,Melbourne Victory,Perth,88.26,3.43,27.21,4.42,Open play,Short pass,Goal
+30,Perth,Melbourne Victory,16.02,21.75,37.05,22.86,Open play,Medium pass,Missed
+30,Perth,Melbourne Victory,20.58,21.55,24,22.37,Set play,Free Kick,Saved
+30,Perth,Melbourne Victory,26.44,20.88,21.03,22.73,Open play,Medium pass,Missed
+30,Perth,Melbourne Victory,56.31,22.2,47.8,28.45,Open play,Short pass,Saved
+30,Perth,Melbourne Victory,59.56,9.15,38.28,12.34,Open play,Long through,Saved
+30,Perth,Melbourne Victory,60.16,13.96,36.57,15.43,Open play,Medium through,Missed
+30,Perth,Melbourne Victory,60.59,16.88,39.33,19.29,Open play,Turnover,Missed
+30,Perth,Melbourne Victory,67.21,25.4,43.22,28.63,Open play,Turnover,Missed
+30,Perth,Melbourne Victory,69.11,20.43,36.36,21.4,Open play,Short pass,Missed
+30,Perth,Melbourne Victory,83.11,30.66,34.29,30.96,Open play,Short pass,Goal
+30,Perth,Melbourne Victory,91.51,16.88,23.86,17.96,Open play,Medium through,Saved
+31,Brisbane,Sydney,7.54,16.45,49.63,25.61,Open play,Short through,Missed
+31,Brisbane,Sydney,18.35,9.84,40.02,14.04,Open play,Medium through,Goal
+31,Brisbane,Sydney,45.3,14.04,46.89,21.96,Open play,Header,Blocked
+31,Brisbane,Sydney,62.31,27.89,7.11,36.08,Set play,Free Kick,Goal
+31,Brisbane,Sydney,77.13,15.01,27.89,15.16,Open play,Turnover,Saved
+31,Brisbane,Sydney,81.01,13.57,25.6,14.27,Open play,Header,Blocked
+31,Brisbane,Sydney,81.06,15.17,28.49,15.24,Open play,Short pass,Blocked
+31,Brisbane,Sydney,81.37,27.23,28.72,27.26,Open play,Header,Saved
+31,Brisbane,Sydney,88.12,11.37,22.82,13.45,Open play,Medium through,Saved
+31,Sydney,Brisbane,12.1,1.11,41.16,11.22,Open play,Medium through,Missed
+31,Sydney,Brisbane,20.35,29.29,29.87,29.29,Open play,Medium pass,Saved
+31,Sydney,Brisbane,21.29,20.99,24.23,21.77,Open play,Short pass,Saved
+31,Sydney,Brisbane,24.44,16.99,25.86,17.49,Open play,Short pass,Saved
+31,Sydney,Brisbane,36.5,39.56,31.12,39.58,Open play,Short pass,Missed
+31,Sydney,Brisbane,38.52,11.48,40.71,15.7,Open play,Medium pass,Saved
+31,Sydney,Brisbane,60.47,21.74,19.88,23.98,Open play,Long through,Missed
+31,Sydney,Brisbane,63.46,8.97,28.99,9.03,Open play,Cross,Missed
+31,Sydney,Brisbane,63.51,3.89,38.19,9.07,Open play,Missed shot,Saved
+31,Sydney,Brisbane,79.22,19.66,22.17,21.16,Open play,Long pass,Blocked
+32,Brisbane,Melbourne City,10.57,32.49,22.86,33.27,Open play,Turnover,Missed
+32,Brisbane,Melbourne City,67.51,12.01,37.96,14.41,Open play,Short pass,Missed
+32,Brisbane,Melbourne City,70.31,39.33,25.63,39.57,Open play,Medium pass,Blocked
+32,Brisbane,Melbourne City,73.09,8.35,45.08,17.24,Open play,Long pass,Blocked
+32,Brisbane,Melbourne City,75.47,23.44,20.57,25.27,Open play,Short pass,Blocked
+32,Brisbane,Melbourne City,77.04,9.57,21.71,12.66,Corner,Corner,Missed
+32,Brisbane,Melbourne City,81.06,11.05,13.22,20.09,Open play,Short pass,Blocked
+32,Brisbane,Melbourne City,88.1,16.4,41.85,20.23,Open play,Short pass,Blocked
+32,Brisbane,Melbourne City,88.15,19.87,43.45,23.99,Open play,Header,Blocked
+32,Melbourne City,Brisbane,2.28,2.35,34.99,5.52,Open play,Header,Missed
+32,Melbourne City,Brisbane,4.55,11.87,37.96,14.29,Open play,Turnover,Blocked
+32,Melbourne City,Brisbane,5.26,5.77,24.23,8.16,Corner,Corner,Missed
+32,Melbourne City,Brisbane,17.11,6.27,29.85,6.27,Open play,Cross,Blocked
+32,Melbourne City,Brisbane,20.44,16.15,15.99,21.38,Open play,Throw-in,Missed
+32,Melbourne City,Brisbane,21.22,11.33,26.06,12,Corner,Corner,Missed
+32,Melbourne City,Brisbane,38.44,15.99,38.19,17.97,Open play,Header,Missed
+32,Melbourne City,Brisbane,41.23,12.27,15.99,18.62,Open play,Medium through,Missed
+32,Melbourne City,Brisbane,43.05,11.17,30.11,11.17,Open play,Medium pass,Blocked
+32,Melbourne City,Brisbane,46.37,14.27,27.66,14.46,Open play,Long through,Missed
+32,Melbourne City,Brisbane,47.29,20,15.54,24.68,Corner,Header,Missed
+32,Melbourne City,Brisbane,56.41,6.28,27.21,6.87,Open play,Cross,Saved
+32,Melbourne City,Brisbane,57.36,19.86,45.51,25.2,Open play,Long pass,Missed
+32,Melbourne City,Brisbane,60.47,13.81,45.28,20.6,Open play,Short pass,Missed
+32,Melbourne City,Brisbane,71.17,16.52,39.33,18.97,Open play,Header,Blocked
+32,Melbourne City,Brisbane,72.03,5.22,30.33,5.23,Corner,Header,Saved
+32,Melbourne City,Brisbane,79.34,10.85,20.88,14.17,Corner,Short pass,Missed
+32,Melbourne City,Brisbane,80.1,22.63,15.89,26.67,Open play,Medium through,Missed
+32,Melbourne City,Brisbane,85.56,16.27,42.77,20.68,Open play,Cross,Saved
+33,Brisbane,Western Sydney,19.33,22.44,26.75,22.67,Open play,Short pass,Saved
+33,Brisbane,Western Sydney,25.5,12.93,44.6,19.5,Open play,Medium pass,Missed
+33,Brisbane,Western Sydney,30.33,5.05,37.73,9.23,Open play,Turnover,Saved
+33,Brisbane,Western Sydney,61.49,33.84,14.5,37.22,Open play,Long through,Goal
+33,Brisbane,Western Sydney,80.51,28.83,23.77,29.5,Open play,Medium pass,Saved
+33,Brisbane,Western Sydney,90.18,5.5,30.3,5.51,Open play,Cross,Saved
+33,Brisbane,Western Sydney,90.2,0.8,27.58,2.55,Open play,Missed shot,Goal
+33,Western Sydney,Brisbane,5.42,11.27,30.64,11.29,Open play,Short pass,Missed
+33,Western Sydney,Brisbane,10.52,28.31,31.55,28.35,Open play,Turnover,Missed
+33,Western Sydney,Brisbane,16.5,9.98,31.2,10.05,Open play,Cross,Missed
+33,Western Sydney,Brisbane,29.26,9.57,37.27,12.02,Open play,Cross,Missed
+33,Western Sydney,Brisbane,31.49,29.52,28.81,29.54,Open play,Turnover,Missed
+33,Western Sydney,Brisbane,32.22,11.87,28.37,11.98,Open play,Short pass,Saved
+33,Western Sydney,Brisbane,33.03,22.74,48.95,29.6,Open play,Medium pass,Blocked
+33,Western Sydney,Brisbane,38.02,5.08,37.25,8.85,Open play,Cross,Missed
+33,Western Sydney,Brisbane,50.28,22.42,14.16,27.45,Open play,Long pass,Missed
+33,Western Sydney,Brisbane,56.01,6.12,31.03,6.21,Open play,Cross,Saved
+33,Western Sydney,Brisbane,56.04,5.13,39.71,10.98,Open play,Missed shot,Saved
+33,Western Sydney,Brisbane,67.27,16.22,27.66,16.39,Open play,Turnover,Missed
+33,Western Sydney,Brisbane,78.26,24.03,34.44,24.44,Open play,Long through,Missed
+33,Western Sydney,Brisbane,86.18,16.42,36.59,17.69,Open play,Cross,Saved
+34,Newcastle,Western Sydney,11.4,29.75,37.5,30.68,Open play,Short pass,Missed
+34,Newcastle,Western Sydney,16.5,8.57,31.82,8.76,Open play,Cross,Missed
+34,Newcastle,Western Sydney,24.13,5.49,21.49,10.13,Open play,Medium through,Missed
+34,Newcastle,Western Sydney,27.23,16.4,18.51,20.02,Open play,Medium through,Missed
+34,Newcastle,Western Sydney,31.09,20.14,30.1,20.14,Open play,Long pass,Missed
+34,Newcastle,Western Sydney,39.46,10.82,38.42,13.71,Open play,Short through,Goal
+34,Newcastle,Western Sydney,45.36,5.3,27.98,5.67,Corner,Corner,Missed
+34,Newcastle,Western Sydney,48.52,11.16,40.94,15.63,Open play,Long through,Blocked
+34,Newcastle,Western Sydney,52.01,14.56,20.11,17.6,Open play,Medium pass,Missed
+34,Newcastle,Western Sydney,58.1,28.12,42.31,30.7,Open play,Medium pass,Missed
+34,Newcastle,Western Sydney,63.13,27.82,37.27,28.75,Open play,Medium pass,Saved
+34,Newcastle,Western Sydney,69.34,15.02,29.04,15.05,Open play,Cross,Saved
+34,Newcastle,Western Sydney,70.23,3.43,26.06,5.22,Corner,Corner,Blocked
+34,Newcastle,Western Sydney,72.41,14.37,28.12,14.49,Open play,Short through,Blocked
+34,Newcastle,Western Sydney,72.43,12.52,27.85,12.7,Open play,Missed shot,Missed
+34,Newcastle,Western Sydney,73.33,20.45,23.54,21.45,Open play,Medium pass,Missed
+34,Newcastle,Western Sydney,86.26,26.29,31.78,26.35,Open play,Short pass,Saved
+34,Newcastle,Western Sydney,86.54,11.47,34.76,12.42,Open play,Medium through,Saved
+34,Newcastle,Western Sydney,91.39,16.52,40.71,19.69,Open play,Long through,Missed
+34,Newcastle,Western Sydney,92.04,19.67,32.93,19.89,Open play,Medium through,Missed
+34,Newcastle,Western Sydney,92.45,9.32,19.88,13.76,Open play,Short pass,Saved
+34,Western Sydney,Newcastle,8.16,11.05,29.9,11.05,Corner,Corner,Saved
+34,Western Sydney,Newcastle,48.02,16.66,24,17.71,Open play,Short pass,Missed
+34,Western Sydney,Newcastle,49.31,15.67,33.38,16.03,Open play,Medium pass,Blocked
+34,Western Sydney,Newcastle,49.33,14.47,31.39,14.54,Open play,Missed shot,Missed
+34,Western Sydney,Newcastle,64.43,11.12,42.77,16.93,Open play,Medium pass,Blocked
+34,Western Sydney,Newcastle,65.08,10.88,31.25,10.95,Corner,Corner,Missed
+34,Western Sydney,Newcastle,65.1,5.1,23.77,8.05,Corner,Header,Missed
+34,Western Sydney,Newcastle,76.59,16.47,33.12,16.76,Open play,Long through,Missed
+34,Western Sydney,Newcastle,79.23,24.26,35.44,24.86,Open play,Short pass,Missed
+34,Western Sydney,Newcastle,79.59,9.4,16.22,16.68,Open play,Medium pass,Saved
+35,Perth,Western Sydney,18.33,16.4,38.88,18.65,Open play,Cross,Missed
+35,Perth,Western Sydney,27.3,12.48,21.03,15.37,Open play,Medium pass,Missed
+35,Perth,Western Sydney,33.12,20.35,40.71,23,Open play,Short pass,Missed
+35,Perth,Western Sydney,41.45,16.45,33.02,16.72,Open play,Short pass,Saved
+35,Perth,Western Sydney,45.29,22.28,28.12,22.36,Open play,Short pass,Missed
+35,Perth,Western Sydney,56.24,25.63,34.07,25.95,Open play,Medium pass,Saved
+35,Perth,Western Sydney,57.53,15.87,31.12,15.91,Open play,Short through,Saved
+35,Perth,Western Sydney,64.52,15.82,28.77,15.87,Open play,Medium pass,Missed
+35,Perth,Western Sydney,67.45,25.4,27.4,25.53,Open play,Short pass,Saved
+35,Perth,Western Sydney,68.28,19.9,29.98,19.9,Open play,Medium pass,Blocked
+35,Perth,Western Sydney,68.3,15.6,24.69,16.48,Open play,Missed shot,Missed
+35,Perth,Western Sydney,77,19.67,35.67,20.47,Open play,Short pass,Missed
+35,Perth,Western Sydney,83.43,22.43,32.24,22.54,Open play,Short pass,Saved
+35,Perth,Western Sydney,89.37,26.32,34.07,26.63,Open play,Turnover,Missed
+35,Perth,Western Sydney,92.37,26.09,35.22,26.61,Open play,Header,Saved
+35,Western Sydney,Perth,3.52,16.58,24.23,17.56,Open play,Long pass,Saved
+35,Western Sydney,Perth,5.43,16.72,28.12,16.83,Open play,Short pass,Blocked
+35,Western Sydney,Perth,8.19,2.52,37.5,7.91,Corner,Cross,Saved
+35,Western Sydney,Perth,20.46,20.92,26.75,21.17,Open play,Medium pass,Blocked
+35,Western Sydney,Perth,22.03,21.05,12.33,27.48,Open play,Medium pass,Saved
+35,Western Sydney,Perth,32.23,6.01,26.29,7.06,Open play,Cross,Missed
+35,Western Sydney,Perth,36.33,12.37,27.88,12.55,Set play,Free Kick,Saved
+35,Western Sydney,Perth,49.55,19.91,27.21,20.1,Open play,Short pass,Blocked
+35,Western Sydney,Perth,52.13,30.21,29.49,30.21,Open play,Short pass,Saved
+35,Western Sydney,Perth,53.03,10.07,36.19,11.82,Open play,Long through,Missed
+35,Western Sydney,Perth,53.58,29.52,18.51,31.68,Open play,Short pass,Saved
+35,Western Sydney,Perth,64.06,2.11,34.76,5.21,Corner,Corner,Missed
+35,Western Sydney,Perth,81.13,20.11,32.7,20.29,Open play,Medium pass,Saved
+35,Western Sydney,Perth,84.56,16.11,30.81,16.13,Open play,Cross,Missed
+35,Western Sydney,Perth,86.06,5.77,34.22,7.15,Open play,Cross,Goal
+35,Western Sydney,Perth,87.04,20.3,37.05,21.49,Open play,Medium pass,Missed
+35,Western Sydney,Perth,91.07,16.45,28.27,16.54,Open play,Short pass,Goal
+36,Perth,Canberra,0.52,9.42,33.93,10.21,Corner,Corner,Blocked
+36,Perth,Canberra,5.01,21.15,27.96,21.25,Open play,Medium pass,Saved
+36,Perth,Canberra,23.46,23.85,23.61,24.69,Open play,Short pass,Saved
+36,Perth,Canberra,45.02,22.49,32.55,22.63,Open play,Turnover,Saved
+36,Perth,Canberra,46.33,14.83,31.47,14.9,Set play,Free Kick,Missed
+36,Perth,Canberra,66.5,20.43,28.55,20.48,Open play,Medium pass,Blocked
+36,Perth,Canberra,89.01,21.86,36.14,22.71,Open play,Medium pass,Blocked
+36,Canberra,Perth,9.28,10.1,19.94,14.26,Open play,Medium through,Missed
+36,Canberra,Perth,14.5,23.14,22.46,24.34,Open play,Short pass,Blocked
+36,Canberra,Perth,15.11,16.24,17.64,20.41,Corner,Medium pass,Blocked
+36,Canberra,Perth,17.33,6.82,42.18,13.96,Open play,Cross,Saved
+36,Canberra,Perth,21.2,2.89,35.76,6.44,Corner,Corner,Goal
+36,Canberra,Perth,41.37,13.11,42.41,18.05,Open play,Throw-in,Saved
+36,Canberra,Perth,42.04,10.22,30.65,10.24,Corner,Corner,Blocked
+36,Canberra,Perth,48.52,35.78,34.61,36.08,Open play,Turnover,Missed
+36,Canberra,Perth,53.35,30.05,44.02,33.16,Open play,Turnover,Missed
+36,Canberra,Perth,57.57,10.92,20.71,14.34,Open play,Short through,Missed
+36,Canberra,Perth,58.32,12.01,30.88,12.04,Open play,Short through,Saved
+36,Canberra,Perth,59,17.01,43.1,21.47,Open play,Short pass,Saved
+36,Canberra,Perth,61.53,17.55,18.33,21.08,Open play,Medium pass,Saved
+36,Canberra,Perth,64.05,22.35,39.89,24.44,Open play,Medium through,Missed
+36,Canberra,Perth,67.08,16.4,16.27,21.39,Open play,Long through,Missed
+36,Canberra,Perth,68.2,22.41,36.45,23.32,Open play,Short pass,Saved
+36,Canberra,Perth,72.14,8.54,23.72,10.6,Open play,Medium through,Missed
+36,Canberra,Perth,73.29,21.05,32.78,21.23,Open play,Cross,Blocked
+36,Canberra,Perth,73.35,21.53,30.47,21.54,Open play,Missed shot,Saved
+36,Canberra,Perth,77.32,22.89,32.78,23.06,Open play,Short pass,Saved
+36,Canberra,Perth,78.19,7.88,36.37,10.13,Open play,Cross,Saved
+36,Canberra,Perth,82.57,14.53,39.89,17.58,Open play,Short pass,Missed
+36,Canberra,Perth,84.39,5.12,31.3,5.28,Open play,Cross,Goal
